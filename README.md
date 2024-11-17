@@ -20,7 +20,7 @@ Este proyecto es una calculadora de integrales basada en Python, diseñada para 
 [INTEGRAL-CALCULATOR-FOR-VOLUME-COMPUTATIONS-USING-PYTHON](https://bryancarvajal24.github.io/INTEGRAL-CALCULATOR-FOR-VOLUME-COMPUTATIONS-USING-PYTHON/)
 
 ## Instalación
-Este proyecto requiere la instalación de **Python 3** y un editor de código como **Visual Studio Code**. Posteriormente, ejecuta el archivo de la calculadora para realizar los cálculos de volúmenes.
+Este proyecto requiere la instalación de **Python** y un editor de código como **Visual Studio Code**. Posteriormente, ejecuta el archivo de la calculadora para realizar los cálculos de volúmenes.
 
 ## Contratación
 Si quieres contratarme puedes escribirme a brayanpapupro123@gmail.com para consultas.
