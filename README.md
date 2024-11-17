@@ -10,7 +10,7 @@ Este proyecto es una calculadora de integrales basada en Python, diseñada para 
 
 ## Archivos
 
-- [Descargar archivo APIREST (zip)](equipos_futbolistas_apirest_node.js.zip)
+- [Descargar archivo Calculadora (py)](V18_CALCULADORA.py)
 
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
@@ -20,8 +20,7 @@ Este proyecto es una calculadora de integrales basada en Python, diseñada para 
 [INTEGRAL-CALCULATOR-FOR-VOLUME-COMPUTATIONS-USING-PYTHON]()
 
 ## Instalación
-Este proyecto requiere la instalación de **Node.js**, un editor de código como **Visual Studio Code** y una base de datos **MongoDB Atlas**. Posteriormente, configura y ejecuta la API REST conectándola a la base de datos MongoDB para su correcto funcionamiento.
-
+Este proyecto requiere la instalación de **Python 3** y un editor de código como **Visual Studio Code**. Posteriormente, ejecuta el archivo de la calculadora para realizar los cálculos de volúmenes.
 
 ## Contratación
 Si quieres contratarme puedes escribirme a brayanpapupro123@gmail.com para consultas.
